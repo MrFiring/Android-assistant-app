@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assistant</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dict_elements">Assistant</string>
+    <string name="IpStr">IP of your computer:</string>
+    <string name="default_ip">0.0.0.0</string>
+    <string name="dlg_ok">OK</string>
+    <string name="dlg_cancel">Cancel</string>
+    <string name="settings_title">Settings</string>
+    <string name="feedback">Send feedback</string>
+    <string name="subject">Subject:</string>
+    <string name="message">Message:</string>
+    <string name="btn_send">Send</string>
+    <string name="title_activity_feedback">Send feedback</string>
+    <string name="feedback_email">yulo4re@yahoo.com</string>
+    <string name="support">Support</string>
+    <string name="support_url">https://www.google.ru/</string>
+    <string name="validation_url">URL тут</string>
+    <string name="dlg_validate">License validate</string>
+    <string name="license_dlg">License</string>
+    <string name="license_key">License key</string>
+    <string name="error_validate">Validating has failed!</string>
+    <string name="enter_licensekey">Enter license key:</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light" icon="@mipmap/ic_launcher1">
+
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

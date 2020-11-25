@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.mrfiring.assistant.FeedbackActivity">
+    <item
+        android:id="@+id/action_fsupport"
+        android:title="@string/support"
+        />
+
+</menu>
